@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.list-group-item {
+    border: 1px solid #000;
+    margin-bottom: 10px;
+}
+
+.post-title {
+    font-weight: bold;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
